@@ -34,7 +34,7 @@ Update the twilio SID and token in ``settings.py`` so that sms function works pr
 ![User Interface](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.jpg)
 
 
-![UI 2]https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user-interface2.jpg)
+![UI 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user-interface2.jpg)
 
 
 ### Submission Form:
