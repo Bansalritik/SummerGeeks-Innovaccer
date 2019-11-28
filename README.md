@@ -31,18 +31,49 @@ Update the twilio SID and token in ``settings.py`` so that sms function works pr
   
 
 ### User Interface:
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface2.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission1.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission2.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission3.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission4.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/database.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error1.jpg "Philadelphia's Magic Gardens")
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error2.jpg "Philadelphia's Magic Gardens")
+![User Interface](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.jpg)
+
+
+![UI 2]https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user-interface2.jpg)
+
+
+### Submission Form:
+![submission 1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission1.jpg)
+
+
+![Submission 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission2.jpg)
+
+
+![Submission_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission3.jpg)
+
+
+![Submission_4](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission4.jpg)
+
+
+### Check-Out Form:
+![Checkout_1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.jpg )
+
+
+![Checkout_2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.jpg )
+
+
+![Checkout_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.jpg )
+
+
+### SQL DATABASE:
+![SQLite Database](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/database.jpg)
+
+
+### No Such USER:
+![NO_such Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error1.jpg )
+
+
+![NO_such_Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error2.jpg )
+
+
+
+## Tech-Stack:
+             HTML, CSS, Python, SQLite, Django
 
 
    
