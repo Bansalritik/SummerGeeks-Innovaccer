@@ -1,0 +1,70 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+
+<!--CSS file is imported in the head tag-->
+<head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Visitor's Details</title>
+        <link href="https://fonts.googleapis.com/css?family=Nunito:400,300" rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{% static 'css/base.css' %} ">
+</head>
+<!--Style tag to adjust the background image-->
+<style>
+
+</style>
+
+<body>
+<br>
+<!--Alert box if an error occurs-->
+{% if error %}
+<div id="error-alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  <strong>{{ error }}</strong>
+</div>
+{% endif %}
+
+<!--Alert box if a function is performed successfully-->
+{% if success %}
+<div id="success-alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  <strong>{{ success }}</strong>
+</div>
+{% endif %}
+<h1>ENTRY MANAGEMENT SOFTWARE</h1>
+<br>
+<form method="POST">
+
+    <!--Fieldset for the submission form-->
+    <fieldset>
+    <legend><span class="number">1</span>  Enter Check-In Information</legend>
+    <br>
+    {% csrf_token %}
+    {% for field in submission_form %}
+        <div class = "field">
+            <label for="{{ field.id_for_label }}" class = "label">{{ field.placeholder }}</label>
+            {{ field }}
+        </div>
+    {% endfor %}
+    <button type = "Submit" name="submission">CHECK-IN HERE</button>
+    </fieldset>
+</form>
+<br>
+<br>
+<form method="POST">
+
+    <!--Fieldset for the check-out details-->
+    <fieldset>
+        <legend  style ="font-size: 1.4em"><span class="number">2</span>  Enter Visitor's Email to Checkout</legend>
+        <br>
+        {% csrf_token %}
+        {{ departure_form }}
+        <button type = "Submit" name="exit1">CHECK-OUT HERE </button>
+    </fieldset>
+</form>
+
+</body>
+
+<!--End of body-->
+</html>
