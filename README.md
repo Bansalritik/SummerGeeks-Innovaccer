@@ -29,4 +29,11 @@ Update the twilio SID and token in ``settings.py`` so that sms function works pr
     Also, during the check-Out an email is sent to the visitor's E-Mail containing the details regarding the 
     check-in along with check-out details, and the SQLite database is updated.
   
-## IMAGES:
+
+### User Interface:
+   ![](https://i.gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+   
+   
+   ![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/Screenshot%20(225).png "Philadelphia's Magic Gardens")
+   
+   
