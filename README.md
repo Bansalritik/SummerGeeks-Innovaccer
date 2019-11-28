@@ -31,9 +31,23 @@ Update the twilio SID and token in ``settings.py`` so that sms function works pr
   
 
 ### User Interface:
-   ![](https://i.gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface2.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission1.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission2.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission3.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission4.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/database.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error1.jpg "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error2.jpg "Philadelphia's Magic Gardens")
+
+
    
    
-   ![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/Screenshot%20(225).png "Philadelphia's Magic Gardens")
+   
+   
    
    
