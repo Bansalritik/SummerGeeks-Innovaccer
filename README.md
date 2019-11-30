@@ -31,44 +31,44 @@ Update the twilio SID and token in ``settings.py`` so that sms function works pr
   
 
 ### User Interface:
-![User Interface](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.jpg)
+![User Interface](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.png)
 
 
-![UI 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user-interface2.jpg)
+![UI 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user-interface2.png)
 
 
 ### Submission Form:
-![submission 1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission1.jpg)
+![submission 1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission1.png)
 
 
-![Submission 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission2.jpg)
+![Submission 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission2.png)
 
 
-![Submission_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission3.jpg)
+![Submission_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission3.png)
 
 
-![Submission_4](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission4.jpg)
+![Submission_4](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission4.jpeg)
 
 
 ### Check-Out Form:
-![Checkout_1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.jpg )
+![Checkout_1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.png)
 
 
-![Checkout_2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.jpg )
+![Checkout_2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.png)
 
 
-![Checkout_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.jpg )
+![Checkout_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.png)
 
 
 ### SQL DATABASE:
-![SQLite Database](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/database.jpg)
+![SQLite Database](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/database.png)
 
 
 ### No Such USER:
-![NO_such Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error1.jpg )
+![NO_such Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error1.png)
 
 
-![NO_such_Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error2.jpg )
+![NO_such_Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error2.png)
 
 
 
