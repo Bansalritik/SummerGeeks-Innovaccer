@@ -37,44 +37,44 @@ Here , I have created a ``superuser`` that you can have access to using:
 ## SAMPLE IMAGES:
 
 ### User Interface:
-![User Interface](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.png)
+![User Interface](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.png width="500px")
 
 
-![UI 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user-interface2.png)
+![UI 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user-interface2.png width="500px")
 
 
 ### Submission Form:
-![submission 1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission1.png)
+![submission 1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission1.png width="500px")
 
 
-![Submission 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission2.png)
+![Submission 2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission2.png width="500px")
 
 
-![Submission_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission3.png)
+![Submission_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission3.png width="500px")
 
 
-![Submission_4](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission4.jpeg)
+![Submission_4](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/submission4.jpeg width="500px")
 
 
 ### Check-Out Form:
-![Checkout_1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.png)
+![Checkout_1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.png width="500px")
 
 
-![Checkout_2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.png)
+![Checkout_2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.png width="500px")
 
 
-![Checkout_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.png)
+![Checkout_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.png width="500px")
 
 
 ### SQL DATABASE:
-![SQLite Database](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/database.png)
+![SQLite Database](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/database.png width="500px")
 
 
 ### No Such USER:
-![NO_such Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error1.png)
+![NO_such Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error1.png width="500px")
 
 
-![NO_such_Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error2.png)
+![NO_such_Entry](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/error2.png width="500px")
 
 
 
