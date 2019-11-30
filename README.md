@@ -18,7 +18,7 @@ You'll have to update the email host user and password in ``settings.py`` -
       EMAIL_HOST_USER = "email_id@user.com"
       EMAIL_HOST_PASSWORD = 'Your_password'
 
-Update the twilio SID and token in ``settings.py`` so that sms function works properly, Also you need to verify the phone numbers on twilio that you are about to use as the host's number that is the number on whixh you wany to recieve messages -
+Update the twilio SID and token in ``settings.py`` so that sms function works properly, Also you need to verify the phone numbers on twilio that you are about to use as the host's number or the number on which you want to recieve messages -
 
       TWILIO_ACCOUNT_SID = 'Your_SID'
       TWILIO_AUTH_TOKEN = 'Your_Token'
