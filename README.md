@@ -57,13 +57,13 @@ Here , I have created a ``superuser`` that you can have access to using:
 
 
 ### Check-Out Form:
-![Checkout_1](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.png width="500px")
+<img src="https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout1.png" width="500px">
 
 
-![Checkout_2](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.png width="500px")
+<img src ="https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout2.png" width="500px">
 
 
-![Checkout_3](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.png width="500px")
+<img src ="https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/checkout3.png" width="500px">
 
 
 ### SQL DATABASE:
