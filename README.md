@@ -18,17 +18,23 @@ You'll have to update the email host user and password in ``settings.py`` -
       EMAIL_HOST_USER = "email_id@user.com"
       EMAIL_HOST_PASSWORD = 'Your_password'
 
-Update the twilio SID and token in ``settings.py`` so that sms function works properly -
+Update the twilio SID and token in ``settings.py`` so that sms function works properly, Also you need to verify the phone numbers on twilio that you are about to use as the host's number that is the number on whixh you wany to recieve messages -
 
       TWILIO_ACCOUNT_SID = 'Your_SID'
       TWILIO_AUTH_TOKEN = 'Your_Token'
+
+Here , I have created a ``superuser`` that you can have access to using:
+      
+      usrename: admin
+      password: admin
       
 ### Result:
     As soon as the check-In details are entered, an E-Mail and SMS is sent to the Host's E-mail address and phone.
     The SQLite database is updated with the user details.
     Also, during the check-Out an email is sent to the visitor's E-Mail containing the details regarding the 
     check-in along with check-out details, and the SQLite database is updated.
-  
+
+## SAMPLE IMAGES:
 
 ### User Interface:
 ![User Interface](https://github.com/Bansalritik/SummerGeeks-Innovaccer/blob/master/images/user%20interface.png)
@@ -76,6 +82,10 @@ Update the twilio SID and token in ``settings.py`` so that sms function works pr
              HTML, CSS, Python, SQLite, Django
 
 
+## Credits
+
+     Created and Developed By: Ritik Bansal
+     Contact Email: ritik.4545@gmail.com
    
    
    
