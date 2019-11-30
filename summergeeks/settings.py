@@ -128,10 +128,10 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = "17ucs130@lnmiit.ac.in"
-EMAIL_HOST_PASSWORD = 'Rolestopc1.'
+EMAIL_HOST_USER = "email_id@user.com"
+EMAIL_HOST_PASSWORD = 'Your_Password'
 
 # Details to send the sms using twilio
 
-TWILIO_ACCOUNT_SID = 'AC05fcd01718b44861fb61cc8a595e27df'
-TWILIO_AUTH_TOKEN = 'e2cbad77f9265460d2423c3be850b986'
+TWILIO_ACCOUNT_SID = 'Your_SID'
+TWILIO_AUTH_TOKEN = 'Your_Token'
