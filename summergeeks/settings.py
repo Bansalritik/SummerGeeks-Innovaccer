@@ -108,7 +108,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
 
@@ -135,3 +135,4 @@ EMAIL_HOST_PASSWORD = 'Your_Password'
 
 TWILIO_ACCOUNT_SID = 'Your_SID'
 TWILIO_AUTH_TOKEN = 'Your_Token'
+TWILIO_FROM_PHONE = 'your_twilio_no'

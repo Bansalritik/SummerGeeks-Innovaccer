@@ -35,7 +35,7 @@ def Course(request):
                         send_mail(
                             'Check-Out Details',
                             'NAME: ' + a.visitorname + '\nPhone: ' + a.visitorphone + '\nHostname: ' + a.hostname +
-                            '\nCheck-In Time: ' + checkintime + '\nCheckout Time: ' + checkouttime +
+                            '\nCheck-In Time: ' + checkintime +' IST' + '\nCheckout Time: ' + checkouttime + 'IST' +
                             '\nAddress Visited: ' + a.addressvisited + "\n\nThanks for Visiting us!",
                             settings.EMAIL_HOST_USER,
                             [a.visitoremail],
@@ -72,6 +72,16 @@ def Course(request):
         # For Submission Form
         elif 'submission' in request.POST:
             submission_form = SubmissionForm(request.POST)
+	    if not submission_form.is_valid():
+                error_msg = "Please enter a valid Phone No."
+                submission_form = SubmissionForm()
+                departure_form = DepartureForm()
+                context = {
+                    'error': error_msg,
+                    'submission_form': submission_form,
+                    'departure_form': departure_form,
+                }
+                return render(request, 'home.html', context)
             if submission_form.is_valid() and not data.objects.filter(visitoremail=submission_form.cleaned_data['visitoremail'], departed=False).exists():
                 visitorname = submission_form.cleaned_data['visitorname']
                 visitoremail = submission_form.cleaned_data['visitoremail'] 
@@ -85,7 +95,7 @@ def Course(request):
                 send_mail(
                     'Check-In Details',
                     'NAME: ' + visitorname + '\nPhone: ' + visitorphone + '\nVisitor E-Mail: ' + visitoremail +
-                    '\nCheck-In Time: ' + checkintimme,
+                    '\nCheck-In Time: ' + checkintimme + 'IST',
                     settings.EMAIL_HOST_USER,
                     [hostemail],
                     fail_silently=False,
@@ -93,14 +103,14 @@ def Course(request):
                 try:
                     message = client.messages \
                         .create(
-                            body='NAME: ' + visitorname + '\nPhone: ' + visitorphone + '\nVisitor E-Mail: ' + visitoremail +'\nCheck-In Time: ' + checkintimme,
-                            from_='+17154082006',
+                            body='NAME: ' + visitorname + '\nPhone: ' + visitorphone + '\nVisitor E-Mail: ' + visitoremail +'\nCheck-In Time: ' + checkintimme + 'IST',
+                            from_=settings.TWILIO_FROM_PHONE,
                             to='+91' + hostphone
                         )
                     print('success')
                 except TwilioRestException:
                     print('fail')
-                submission_form.save()
+ 		submission_form.save()
                 success_msg = "Checked-In Successfully!"
                 submission_form = SubmissionForm()
                 departure_form = DepartureForm()
